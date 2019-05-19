@@ -9,3 +9,6 @@ if cabin temperature and userset temperature is same , ac heater both will off.
 
 THIS IS LINK FOR HVAC MODEL IN TINKER CAD.. PUNIT-HVAC
 LINK:https://www.tinkercad.com/things/bDDtZDwghlY-punit-hvac/editel?sharecode=CD269B7wl1VttnugyTgc6SFkEQiAQxDXMkUV2UuK0Xg=
+
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c80c761195d4a699e6531abd4d45409)](https://www.codacy.com/app/PUNITPNT/HVAC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PUNITPNT/HVAC&amp;utm_campaign=Badge_Grade)
