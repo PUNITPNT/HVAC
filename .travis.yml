@@ -7,5 +7,5 @@ matrix:
      - clang
      - gcc
     script:
-      - gcc -o hvac hvac.c 
-      - ./hvac
+      - gcc -o test hvac.c 
+      - ./test
