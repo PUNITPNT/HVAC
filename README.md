@@ -1,4 +1,7 @@
 # HVAC
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/30860d980e404870b4951942903646ca)](https://app.codacy.com/app/PUNITPNT/HVAC?utm_source=github.com&utm_medium=referral&utm_content=PUNITPNT/HVAC&utm_campaign=Badge_Grade_Settings)
+
 VEHICLE CLIMATE CONTROL
 it has two modes mode 0 and mode 1
 when power is on and mode 0 is on. it means that manual set of temperature is off, so to maintain fixed temperature inside cabin
