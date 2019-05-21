@@ -10,6 +10,6 @@ so, if cabin temperature is greater then fixed temperature 22 then ac and blower
 when power is on and mode 1 is on. it means that manual set of temperature is on, if cabin temperature is greater then userset temperature  then ac and blower will on. if cabin temperature is smaller then userset temperature then heater will on and blower will on.
 if cabin temperature and userset temperature is same , ac heater both will off.
 
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bbd0e82284334cb8b8f00a1899a30540)](https://www.codacy.com/app/PUNITPNT/HVAC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PUNITPNT/HVAC&amp;utm_campaign=Badge_Grade)
 
 
